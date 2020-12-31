@@ -1,4 +1,4 @@
-package com.designpatterns.demo.command;
+package com.designpatterns.behaviour.command;
 
 public interface Order {
     void execute();

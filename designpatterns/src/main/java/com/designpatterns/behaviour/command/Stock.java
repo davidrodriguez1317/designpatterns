@@ -1,4 +1,4 @@
-package com.designpatterns.demo.command;
+package com.designpatterns.behaviour.command;
 
 /**
  * Request class
